@@ -7,7 +7,7 @@ Programador entusiasta
 💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
 
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Salve,+meu+nome+é+Juan+Gabriel!;Second+line+of+text)](https://git.io/typing-svg)
 ## 🚀 Minhas Skills
 <div justify-content:space-evenly>
 <img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/>
