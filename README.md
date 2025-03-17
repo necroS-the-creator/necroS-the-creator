@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=11100&size=30&duration=3000&pause=1000&color=D20700&center=true&width=1000&lines=%F0%9F%8E%B8+Salve%2C+meu+nome+%C3%A9+Juan!;Seja+bem-vindo(a)+ao+meu+perfil!!)](https://git.io/typing-svg)
 ##
+<br>
 <div align="center" dir="auto">
   <animated-image data-catalyst="" style="width: 100px;">
     <a target="_blank" rel="noopener noreferrer" href="buba.gif">
