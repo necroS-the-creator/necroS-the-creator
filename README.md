@@ -1,10 +1,10 @@
 <h1 >🎸 Salve, meu nome é Juan Gabriel!</h1> <br><br>
 
 <div class=container justify-content-space-evenly>
-<img center src="pingu.gif">
+
 Faça uma breve apresentação sobre você e a sua stack.
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
+<img center src="pingu.gif">🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
 
 💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
 </div>
