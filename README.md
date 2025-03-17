@@ -3,7 +3,7 @@
 <div align="center" dir="auto">
   <animated-image data-catalyst="" style="width: 100px;">
     <a target="_blank" rel="noopener noreferrer" href="buba.gif">
-      <img src="buba.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+      <img src="buba.gif" style="max-width: 50%; display: inline-block;" data-target="animated-image.originalImage">
     </a>
     <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
       <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="buba.gif" target="_blank">
