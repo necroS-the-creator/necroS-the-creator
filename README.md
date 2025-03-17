@@ -9,7 +9,7 @@
     <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
       <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="5FBP.gif" target="_blank">
         <span data-target="animated-image.imageContainer">
-          <img data-target="animated-image.replacedImage" alt="Bulbassauro" class="AnimatedImagePlayer-animatedImage" src="" style="display: block; opacity: 1;">
+          
         </span>
       </a>
     </span>
