@@ -15,9 +15,6 @@ Faça uma breve apresentação sobre você e a sua stack.
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<code>https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnE4bGNveW5iMDF2eWM2amxvMGJ6eTNyN216a2kwNWhldWw3eXk2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YGIpIZjgxL68w/giphy.gif</code>
 
 ---
-
-## ⭐ GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=necroS-the-creator&show_icons=true)
