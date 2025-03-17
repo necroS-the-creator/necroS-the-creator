@@ -1,5 +1,5 @@
 ## Iae chat suave 👋
-
+img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="70">
 <!--
 **necroS-the-creator/necroS-the-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
