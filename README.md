@@ -10,9 +10,7 @@
       <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="5FBP.gif" target="_blank">
         <span data-target="animated-image.imageContainer">
           
-        </span>
-      </a>
-    </span>
+       
   </animated-image>
 </div>
 </div>
