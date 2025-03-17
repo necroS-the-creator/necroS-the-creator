@@ -14,8 +14,6 @@
     </span>
   </animated-image>
 </div>
-
-  <img src="buba.gif" alt="bulbassaur" />
 </div>
 
 
