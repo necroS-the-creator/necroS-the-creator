@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é Juan Gabriel!
+## 💜 Olá, meu nome é Juan Gabriel! <code><img src="pingu.gif"></code>
 
 Faça uma breve apresentação sobre você e a sua stack.
 
@@ -18,4 +18,4 @@ Faça uma breve apresentação sobre você e a sua stack.
 
 
 ---
-<code><img  src="pingu.gif"></code>
+
