@@ -15,6 +15,7 @@ Faça uma breve apresentação sobre você e a sua stack.
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="9a31a5375d32e253fa8f1ef76bfa9f9e.jpg"></code>
+
 
 ---
+<code><img height="32" src="9a31a5375d32e253fa8f1ef76bfa9f9e.jpg"></code>
