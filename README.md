@@ -1,4 +1,4 @@
-<div width: 100%><h1 text-align:center >💜 Olá, meu nome é Juan Gabriel!</h1> <br><br> <img border:0 center src="pingu.gif"></div>
+<div width: 100%><h1 text-align:center >🤘 Salve, meu nome é Juan Gabriel!</h1> <br><br> <img border:0 center src="pingu.gif"></div>
 
 Faça uma breve apresentação sobre você e a sua stack.
 
