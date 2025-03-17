@@ -3,10 +3,10 @@
 <div align="center" dir="auto">
   <animated-image data-catalyst="" style="width: 100px;">
     <a target="_blank" rel="noopener noreferrer" href="buba.gif">
-      <img width="100px"src="buba.gif" style="max-width: 50%; display: inline-block;" data-target="animated-image.originalImage">
+      <img width="100px"src="5FBP.gif" style="max-width: 50%; display: inline-block;" data-target="animated-image.originalImage">
     </a>
     <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-      <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="buba.gif" target="_blank">
+      <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="5FBP.gif" target="_blank">
         <span data-target="animated-image.imageContainer">
           <img data-target="animated-image.replacedImage" alt="Bulbassauro" class="AnimatedImagePlayer-animatedImage" src="buba.gif" style="display: block; opacity: 1;">
         </span>
