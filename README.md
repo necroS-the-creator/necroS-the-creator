@@ -18,4 +18,4 @@ Faça uma breve apresentação sobre você e a sua stack.
 
 
 ---
-<code><img height="32" src="9a31a5375d32e253fa8f1ef76bfa9f9e.jpg"></code>
+<code><img  src="9a31a5375d32e253fa8f1ef76bfa9f9e.jpg"></code>
