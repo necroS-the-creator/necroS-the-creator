@@ -17,7 +17,9 @@
 </div>
 
 
-<p>Eu sou o Juan, um entusiasta da tecnologia e estudante de Sistemas da Informação. Na maioria do tempo estou jogando ou trabalhando, Tenho formação técnica em Informática para Internet pela ETEC e estou sempre em busca de novos desafios no mundo do desenvolvimento. Sigo explorando e aprendendo a cada dia, misturando código com minhas paixões!🚀🎸🎮</p>
+<div text-align:center; max-width: 50%>
+  <p>Eu sou o Juan, um entusiasta da tecnologia e estudante de Sistemas da Informação. Na maioria do tempo estou jogando ou trabalhando, Tenho formação técnica em Informática para Internet pela ETEC e estou sempre em busca de novos desafios no mundo do desenvolvimento. Sigo explorando e aprendendo a cada dia, misturando código com minhas paixões!🚀🎸🎮</p>
+</div>
 
 
 ## 🚀 Minhas Skills
