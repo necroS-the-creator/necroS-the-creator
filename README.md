@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=F7F7F7&center=true&width=800&lines=%F0%9F%8E%B8+Salve%2C+meu+nome+%C3%A9+Juan!;Seja+bem-vindo(a)+ao+meu+perfil!!)](https://git.io/typing-svg)
 
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; width=1000px;">
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; width="1000px";">
   <img width="100" justify-content:center src="buba.gif" alt="bulbassaur"/>
 </div>
 
