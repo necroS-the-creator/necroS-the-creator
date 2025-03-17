@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é Juan Gabriel! <img border:0 center src="pingu.gif">
+## 💜 Olá, meu nome é Juan Gabriel! <br> <img border:0 center src="pingu.gif">
 
 Faça uma breve apresentação sobre você e a sua stack.
 
