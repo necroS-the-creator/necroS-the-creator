@@ -20,4 +20,4 @@ Faça uma breve apresentação sobre você e a sua stack.
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=necroS-the-creator&show_icons=true)
