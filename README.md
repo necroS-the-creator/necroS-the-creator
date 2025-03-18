@@ -9,8 +9,6 @@
     <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
       <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="5FBP.gif" target="_blank">
         <span data-target="animated-image.imageContainer">
-          
-       
   </animated-image>
 </div>
 </div>
@@ -22,7 +20,7 @@
 
 <br>
 
-## 🚀 Minhas Skills
+## 🚀 Minha Stack
 <div style="display: flex; justify-content: space-evenly;">
   <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/>
   <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/>
